@@ -10,15 +10,15 @@ for x in range (1,6):
 print("Selesai")
 ```
 
-Penjelasan Algoritma
+- Penjelasan Algoritma
 
-Masukkan Nilai N=5.
+- Masukkan Nilai N=5.
 
-Gunakan For Range (Untuk Mengulang Data Dari 1-5).
+- Gunakan For Range (Untuk Mengulang Data Dari 1-5).
 
-Cetak Data Dan Memasukkan (Random.uniform Kurang Kurang Dari 0.5).
+- Cetak Data Dan Memasukkan (Random.uniform Kurang Kurang Dari 0.5).
 
-Jika Selesai RUN/jalankan Programnya.
+- Jika Selesai RUN/jalankan Programnya.
 
 # Output
 
@@ -38,15 +38,15 @@ while True:
 print("Bilangan Terbesar Adalah : ",max)
 ```
 
-Penjelasan Algoritma
+- Penjelasan Algoritma
 
-Masukkan Max=0
+- Masukkan Max=0
 
-Gunakan While True (Untuk Perulangan Tak Terbatas. Jika Bilangan Tersebut Bukan Nol, Maka Akan Terus Berulang).
+- Gunakan While True (Untuk Perulangan Tak Terbatas. Jika Bilangan Tersebut Bukan Nol, Maka Akan Terus Berulang).
 
-Gunakan If Jika Masukkan Bilangan Nol Maka Perulangan Akan Berhenti, If Dalam Python Dijalankan Untuk Memeriksa Kondisi Apakah Ini Bernilai Benar Atau Salah.
+- Gunakan If Jika Masukkan Bilangan Nol Maka Perulangan Akan Berhenti, If Dalam Python Dijalankan Untuk Memeriksa Kondisi Apakah Ini Bernilai Benar Atau Salah.
 
-Gunakan If Untuk Mencari Nilai Max Atau Bilangan Terbesar, Selanjutnya Jalankan Programya.
+- Gunakan If Untuk Mencari Nilai Max Atau Bilangan Terbesar, Selanjutnya Jalankan Programya.
 
 # Output
 
@@ -77,20 +77,20 @@ print("\nTotal laba adalah : ", total)
 
 # Penjelasan Algoritma
 
-Masukkan Nilai a
+- Masukkan Nilai a
 
-Gunakan For untuk Perulangan Dari 1-8, Yang Disebut Counted Loop (Perulangan Yang Terhitung)
+- Gunakan For untuk Perulangan Dari 1-8, Yang Disebut Counted Loop (Perulangan Yang Terhitung)
 
-Gunakan If Pertama Untuk Menentukan Laba Bulan Ke-1 Dan Ke-2, Masukkan Variable (b) Kalikan Nilai (a) Dengan Data Bulan 1 Dan 2, Lalu Cetak (x) Dan (b)
+- Gunakan If Pertama Untuk Menentukan Laba Bulan Ke-1 Dan Ke-2, Masukkan Variable (b) Kalikan Nilai (a) Dengan Data Bulan 1 Dan 2, Lalu Cetak (x) Dan (b)
 
-Gunakan If Kedua Untuk Menentukan Laba Bulan Ke-3 Dan Ke-4, Masukkan Variable (b) Kalikan Nilai (a) Dengan Data Bulan 3 Dan 4, Lalu Cetak (x) Dan (c)
+- Gunakan If Kedua Untuk Menentukan Laba Bulan Ke-3 Dan Ke-4, Masukkan Variable (b) Kalikan Nilai (a) Dengan Data Bulan 3 Dan 4, Lalu Cetak (x) Dan (c)
 
-Gunakan If Ketiga Untuk Menentukan Laba Bulan Ke-5 Dan Ke-7, Masukkan Variable (b) Kalikan Nilai (a) Dengan Data Bulan 5 Dan 7, Lalu Cetak (x) Dan (d)
+= Gunakan If Ketiga Untuk Menentukan Laba Bulan Ke-5 Dan Ke-7, Masukkan Variable (b) Kalikan Nilai (a) Dengan Data Bulan 5 Dan 7, Lalu Cetak (x) Dan (d)
 
-Gunakan If Keempat Untuk Menentukan Laba Bulan Ke-8, Masukkan Variable (b) Kalikan Nilai (a) Dengan Data Bulan 8, Lalu Cetak (x) Dan (e)
+- Gunakan If Keempat Untuk Menentukan Laba Bulan Ke-8, Masukkan Variable (b) Kalikan Nilai (a) Dengan Data Bulan 8, Lalu Cetak (x) Dan (e)
 
-Selanjutnya Total Keseluruhan Dan Cetak Total
+- Selanjutnya Total Keseluruhan Dan Cetak Total
 
 # Output
 
-
+![program1py](https://user-images.githubusercontent.com/46512629/53023984-ccf42c80-3490-11e9-9fea-d98dea425eeb.png)
