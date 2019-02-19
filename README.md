@@ -10,7 +10,7 @@ for x in range (1,6):
 print("Selesai")
 ```
 
-- Penjelasan Algoritma
+``` - Penjelasan Algoritma```
 
 - Masukkan Nilai N=5.
 
@@ -38,7 +38,7 @@ while True:
 print("Bilangan Terbesar Adalah : ",max)
 ```
 
-- Penjelasan Algoritma
+``` -  Penjelasan Algoritma```
 
 - Masukkan Max=0
 
@@ -75,7 +75,7 @@ total = b+b+c+c+d+d+d+e
 print("\nTotal laba adalah : ", total)
 ```
 
-# Penjelasan Algoritma
+``` - Penjelasan Algoritma```
 
 - Masukkan Nilai a
 
@@ -85,7 +85,7 @@ print("\nTotal laba adalah : ", total)
 
 - Gunakan If Kedua Untuk Menentukan Laba Bulan Ke-3 Dan Ke-4, Masukkan Variable (b) Kalikan Nilai (a) Dengan Data Bulan 3 Dan 4, Lalu Cetak (x) Dan (c)
 
-= Gunakan If Ketiga Untuk Menentukan Laba Bulan Ke-5 Dan Ke-7, Masukkan Variable (b) Kalikan Nilai (a) Dengan Data Bulan 5 Dan 7, Lalu Cetak (x) Dan (d)
+- Gunakan If Ketiga Untuk Menentukan Laba Bulan Ke-5 Dan Ke-7, Masukkan Variable (b) Kalikan Nilai (a) Dengan Data Bulan 5 Dan 7, Lalu Cetak (x) Dan (d)
 
 - Gunakan If Keempat Untuk Menentukan Laba Bulan Ke-8, Masukkan Variable (b) Kalikan Nilai (a) Dengan Data Bulan 8, Lalu Cetak (x) Dan (e)
 
