@@ -14,9 +14,9 @@ print("Selesai")
 
 - Masukkan Nilai N=5.
 
-- Gunakan For Range (Untuk Mengulang Data Dari 1-5).
+- Gunakan For Range Untuk Mengulang Data Dari 1-5.
 
-- Cetak Data Dan Memasukkan (Random.uniform Kurang Kurang Dari 0.5).
+- Cetak Data Dan Memasukkan Random.uniform Kurang Kurang Dari 0.5.
 
 - Jika Selesai RUN/jalankan Programnya.
 
@@ -42,7 +42,7 @@ print("Bilangan Terbesar Adalah : ",max)
 
 - Masukkan Max=0
 
-- Gunakan While True (Untuk Perulangan Tak Terbatas. Jika Bilangan Tersebut Bukan Nol, Maka Akan Terus Berulang).
+- Gunakan While True Untuk Perulangan Tak Terbatas. Jika Bilangan Tersebut Bukan Nol, Maka Akan Terus Berulang.
 
 - Gunakan If Jika Masukkan Bilangan Nol Maka Perulangan Akan Berhenti, If Dalam Python Dijalankan Untuk Memeriksa Kondisi Apakah Ini Bernilai Benar Atau Salah.
 
